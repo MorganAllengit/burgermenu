@@ -3,8 +3,6 @@
 #include <iomanip>
 using namespace std;
 
-#test
-
 void printmenu() {
 	cout << "1. Burger       $2.00  2. Milkshake $2.50\n";
 	cout << "3. Cheeseburger $3.00  4. Chic Nugg $2.00\n";
